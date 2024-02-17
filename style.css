@@ -1,0 +1,45 @@
+body {
+    background-color: #333D79;
+    color: #333D79;
+}
+
+.container-style{
+    background-color: #FAEBEF;
+    border-radius: 10px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+    padding: 30px;
+    margin-top: 50px;
+}
+
+h1 {
+    color: #333D79;
+}
+
+form {
+    max-width: 400px;
+    margin: 0 auto;
+}
+
+button {
+    width: 100%;
+    background-color: #333D79 !important;
+    border: none !important;
+}
+
+#resultContainer {
+    margin-top: 20px;
+}
+
+.card{
+    border: none;
+}
+
+.card-header{
+    background-color: #FAEBEF;
+    color: #333D79;
+}
+
+.card-footer{
+    background-color: #FAEBEF;
+    color: #333D79;
+}
